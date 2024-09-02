@@ -1,0 +1,6 @@
+/node_modules/
+.env
+/uploads
+seed.js
+seed_2.js
+drop.js
